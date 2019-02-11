@@ -1,0 +1,2 @@
+1. Images on the home page gallery - thumbnail size >>> 320 x 320
+2. When the images are enlarged >>> 970 x 649

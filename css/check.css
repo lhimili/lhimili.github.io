@@ -1,0 +1,29 @@
+.itemPreviewBookingLink {
+    font-size: 1em;
+    letter-spacing: 0.07em;
+}
+
+.itemPreviewBookingLink .booking-link {
+    padding: 8px 0;
+}
+
+.itemPreview-listView .slick-prev, .itemPreview-listView .slick-next {
+    bottom: 32px;
+}
+
+.itemPreview-listView .slick-prev, .itemPreview-listView .slick-next {
+    bottom: 32px;
+}
+.itemPreview-listView .slick-prev {
+    right: 89px;
+}
+.itemPreview-listView .slick-next {
+    right: 0;
+}
+.itemPreview-listView .slick-dots {
+    bottom: 41px;
+    right: 21px;
+}
+.itemPreview-listView .slick-dots li .pager_item {
+    font-size: 1em;
+}
